@@ -1,4 +1,4 @@
-# Customer Churn Prediction using Neural Networks
+# Customer Churn Prediction
 
 This repository contains code for predicting customer churn using a neural network model built with TensorFlow. Customer churn prediction is a vital task for businesses to understand and mitigate customer attrition, ultimately improving customer retention and business performance.
 

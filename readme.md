@@ -31,5 +31,5 @@ The dataset used for this project is "Churn-Data.csv", which contains various fe
 - Achieved an accuracy of 72% on the test data.
 - Obtained an F1 score of 0.72 using TensorFlow's custom function.
 
-##Model Saving
+## Model Saving
 The trained model is saved to a file named 'model.h5' in the model folder for future use.
